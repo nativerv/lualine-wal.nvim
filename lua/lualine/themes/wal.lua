@@ -1,7 +1,7 @@
--- Copyright (c) 2021-2022 nrv
+-- Copyright (c) 2021-2023 nrv
 -- GPLv3 license, see LICENSE for more details.
 
-local util = require 'util'
+local util = require 'lualine-wal.util'
 
 local lualine_require = require 'lualine_require'
 local modules = lualine_require.lazy_require {
